@@ -26,10 +26,12 @@ Pandas, Seaborn, Statsmodels, Matplotlib, Scikit-learn
 ## 📁 Files
 - `MSBA320_Final_Paper.pdf`: Full final research paper
 - `FinalProject_PremKumar_Thummala.ipynb`: Jupyter notebook used for statistical modeling
-- `national_M2024_dl.xlsx`: May 2024 Occupational Employment and Wage Statistics (OEWS) dataset from the U.S. Bureau of Labor Statistics
+- `wage_datasets.zip`: Compressed file containing:
+  - `national_M2024_dl.xlsx`: May 2024 Occupational Employment and Wage Statistics (OEWS) dataset
+  - `data2024.xlsx`: Additional wage and employment data
 
 ## 📊 Dataset Information
-The dataset contains occupational employment and wage estimates for the United States, including:
+The datasets contain occupational employment and wage estimates for the United States, including:
 - Occupational codes and titles
 - Employment estimates
 - Mean, median, and percentile wages
